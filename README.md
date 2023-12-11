@@ -25,3 +25,5 @@ Jetpack Joyride using LevelHelper, SpriteHelper tutorials.
 • zoup.wav by themfish
 • Rocket Flight Loop by qubodup
 • Music track called ‘Whiskey on the Mississippi’ created by Kevin MacLeod (incompetech.com).
+
+More infos and WebGL-Version to play at https://ralfg.itch.io/rocket-mouse-source
