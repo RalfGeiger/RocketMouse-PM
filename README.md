@@ -1,4 +1,4 @@
-# RocketMouse-PM
+# RocketMouse Unity3D-PM-Source
 Rocket Mouse Unity-Playmaker Source
 
 Game based on a tutorial by Mark Placzek.
